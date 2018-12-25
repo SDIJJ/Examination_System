@@ -5,7 +5,7 @@ import com.system.po.CourseCustom;
 import java.util.List;
 
 /**
- * CourseService课程信息.
+
  */
 public interface CourseService {
     //根据id更新课程信息

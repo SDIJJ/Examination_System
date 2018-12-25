@@ -6,7 +6,7 @@ import com.system.po.StudentCustom;
 import java.util.List;
 
 /**
- * 选课表servic层
+
  */
 public interface SelectedCourseService {
 
